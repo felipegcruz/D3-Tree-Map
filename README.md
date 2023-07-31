@@ -22,7 +22,7 @@ The project is built using the following technologies:
 
 1. Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/felipegcruz/D3-Tree-Map.git
 
 
 2. Navigate to the project directory:
